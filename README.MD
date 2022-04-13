@@ -2,7 +2,7 @@
 
 Proyecto pantalla dividida responsible - codo a codo
 
-### lenguajes ###
+### Lenguajes ###
 
 * HTML5
 * CSS
